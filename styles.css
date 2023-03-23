@@ -1,65 +1,63 @@
 html {
-    font-size: 10px
+  font-size: 10px;
 }
 
 #main {
-    background-color: #eee;
-    margin: 15px 10px;
-    border-radius: 12px;
+  background-color: #eee;
+  margin: 15px 10px;
+  border-radius: 12px;
 }
 
-
-
 img {
-    max-width: 100%;
-    height: auto;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+  max-width: 50%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 h1 {
-    text-align: center;
-    text-decoration: underline;
-    font-family: "sans-serif";
-    font-size: 4rem;
-    margin-bottom: 0;
-    line-height: 1.4;
+  text-align: center;
+  text-decoration: underline;
+  font-family: "sans-serif";
+  font-size: 4rem;
+  margin-bottom: 0;
+  line-height: 1.4;
 }
 
 .intro {
-    font-family: "sans-serif";
-    text-align: center;
-    font-size: 2rem;
+  font-family: "sans-serif";
+  text-align: center;
+  font-size: 2rem;
 }
 
 #img-div {
-    background: white;
+  background: white;
 }
 
 #img-caption {
-    font-size: 1.5rem;
-    text-align: center;
-    margin-top: 10px
+  font-size: 1.5rem;
+  text-align: center;
+  margin-top: 10px;
 }
 
 h2 {
-    text-align: center;
-    margin-top: 30px;
-    font-size: 2rem
+  text-align: center;
+  margin-top: 30px;
+  font-size: 2rem;
 }
 
 .tribute-info {
-    text-align: center;
+  text-align: center;
 }
 
 ul {
-    display: inline-block;
-    text-align: left;
-    font-size: 1.2rem;
-    line-height: 1.6;
+  display: inline-block;
+  text-align: left;
+  font-size: 1.2rem;
+  line-height: 1.6;
 }
 
 li {
-    margin: 12px 0;
+  margin: 12px 0;
 }
